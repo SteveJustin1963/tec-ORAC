@@ -267,5 +267,68 @@ int main(int argc, char** argv) {
 
 
 // 4. can simulate or decode different signals
+
 // 5. to predict probability outcomes give input parameters 
+// take a 10 word question and predict a probability outcome between 0% to 100% 
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <math.h>
+
+#define MAXWORDS 100
+#define WORDLEN 11
+
+int readWords(char* wl[MAXWORDS], char* filename);
+void printWords(char* wl[MAXWORDS], int n);
+
+int main(int argc, char* argv[]) {
+  
+  // check for correct number of arguments
+  if (argc != 3) {
+    printf("Usage: testprog filename\n");
+    exit(1);
+  }
+  
+  // open file and read words
+  char* filename = argv[1];
+  char* wordlist[MAXWORDS];
+  int numwords = readWords(wordlist, filename);
+  
+  // print the list of words
+  printf("Read %d words from %s\n", numwords, filename);
+  //printWords(wordlist, numwords);
+  
+  return 0;
+}
+
+// read words from a file, store them in wl and return the number of words read
+int readWords(char* wl[MAXWORDS], char* filename) {
+  int numread =0;
+  char line[WORDLEN];
+  char *p;
+  FILE* fp = fopen(filename,"r");
+  while (!feof(fp)) {
+    if (fscanf(fp, "%s", line)) {
+      // allocate space for word on heap
+      p  = (char *)  malloc(strlen(line)+1);
+      strcpy(p, line);
+      // add word to list of read words
+      wl[numread] = p;
+      numread++;
+    }
+  } 
+  fclose(fp);
+  return numread;
+}
+
+// print the list of words
+void printWords(char* wl[MAXWORDS], int n) {
+  int i;
+  for (i = 0; i < n; i++) {
+    printf("%s ", wl[i]);
+  }
+  printf("\n");
+}
+
 // 6. has hacking, intrusion and virus protection software
