@@ -1,7 +1,7 @@
  
 // Orac is a computer and its abilities are listed as: 
-// 1.  Access other computers data and or remote control them 
-// 2. This signals are sent over wireless signals
+// 1. Access other computers data and or remote control them 
+// 2. The signals are sent over WIFI
 
 #include <stdio.h> 
 #include <stdlib.h> 
@@ -52,8 +52,8 @@ int main() {
     return 0; 
 }
 
-// 3. has an AI personality that learns from its users and has curiosity about the universe 
-// start with tensor-flow to classify images
+// 3. It has an AI personality that learns from its users and has a curiosity about the universe. 
+// Start with tensor-flow code to classify images
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -266,10 +266,10 @@ int main(int argc, char** argv) {
 
 
 
-// 4. can simulate or decode different signals
+// 4. Can simulate or decode different signals
 
-// 5. to predict probability outcomes give input parameters 
-// take a 10 word question and predict a probability outcome between 0% to 100% 
+// 5. The ability to predict a probability outcomes give input parameters 
+// Take a 10 word question and predict a probability outcome between 0% to 100% 
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -331,4 +331,5 @@ void printWords(char* wl[MAXWORDS], int n) {
   printf("\n");
 }
 
-// 6. has hacking, intrusion and virus protection software
+// 6. Has protection software agains hacking, intrusion and viruses 
+
