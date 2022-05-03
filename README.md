@@ -1,8 +1,9 @@
 # tec-ORAC
-- a wtf tech project
-- name from  " First "Z-80 computer" prototype. This was not actually called a TEC-1, and was unlike any that are shown in the photos. It was casually refered to as Orac. It has not survived. Built by John Hardy."
+- a wtf tech project by me!
+- "The First name for the Z-80 computer prototype...was not actually called a TEC-1, and was unlike to be any that are shown in the photos. It was casually refered to as Orac...and it has not survived. It was built by John Hardy"
+- now to recreat a real ORAC based on Blake;s 7 lore
+- code draft 
 - 
-
 
 ## Ref
 - https://github.com/tec1group/PCB-Revision-History?fbclid=IwAR15Z6l_6arQXzrBXgts9KymNO-Bo5Xz2uVPq62fan6sFV_eS2ZrN1SXlLQ
