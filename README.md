@@ -3,7 +3,7 @@
 - "The First name for the Z-80 computer prototype...was not actually called a TEC-1, and was unlike to be any that are shown in the photos. It was casually refered to as Orac...and it has not survived. It was built by John Hardy"
 - now to recreate a real ORAC based on Blake;s 7 lore
 
-### Features
+### Features in software
 
 Orac is an AI computer and its abilities are listed as: 
 1. Access other computers data and or remote control them 
@@ -13,6 +13,10 @@ Orac is an AI computer and its abilities are listed as:
 5. The ability to predict a probability outcomes give input parameters Take a 10 word question and predict a probability outcome between 0% to 100% 
 6. Has protection software agains hacking, intrusion and viruses 
 
+### Features in hardware
+- transparent box
+- sphere inside, light ball, hinting at optical tank circuit for neural activity see https://github.com/SteveJustin1963/tec-BRAIN
+- 
 
 ### code 
 - orac.c 
