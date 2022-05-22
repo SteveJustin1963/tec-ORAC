@@ -1,0 +1,57 @@
+// 2. The signals are sent over WIFI
+
+: main   
+  
+  create buffer MAXLINE chars allot 
+  create hello  "Hello from client" , 
+  
+  socket     
+  if 
+    perror "socket creation failed" 
+    exit 
+  then 
+  
+  sockfd @ 
+  servaddr ! 
+  servaddr 3 cells allot 
+  
+  servaddr sin_family ! 
+  servaddr sin_port ! 
+  servaddr sin_addr s_addr ! 
+  
+  0 to n 
+  0 to len 
+  
+  hello @ 
+  strlen 
+  MSG_CONFIRM 
+  servaddr @ 
+  sizeof 
+  sendto 
+  if 
+    perror "Error in sendto" 
+    exit 
+  then 
+  
+  ." Hello message sent." cr 
+  
+  MAXLINE c@ 
+  MSG_WAITALL 
+  servaddr @ 
+  sizeof 
+  recvfrom 
+  if 
+    perror "Error in recvfrom" 
+    exit 
+  then 
+  
+  buffer @ 
+  n ! 
+  servaddr @ 
+  len ! 
+  buffer n @ c! 
+  
+  ." Server : " buffer @ type cr 
+  
+  close 
+;
