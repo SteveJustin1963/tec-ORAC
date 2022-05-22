@@ -1,4 +1,6 @@
-# tec-ORAC - "a wtf tech project"..... + is that a question? +
+# A WTF tec project .... + is that a question? +
+
+"The First name for the Z-80 computer prototype...was not actually called a TEC-1, and was unlike to be any that are shown in the photos. It was casually refereed to as Orac...and it has not survived. It was built by John Hardy". Now to recreate a real ORAC based on Blakes 7 lore, batteries not included but source code is !
 
 ![images](https://user-images.githubusercontent.com/58069246/169675890-4557e685-832e-451e-829e-feefe77f64c5.jpg)
 ![download](https://user-images.githubusercontent.com/58069246/169675835-ab187108-cb51-4a44-87c6-ca178ea2161c.jpg)
@@ -7,12 +9,8 @@
 ![images](https://user-images.githubusercontent.com/58069246/169675860-b0449ad9-9547-4bf6-9fc4-ef7455326439.jpg)
 ![images](https://user-images.githubusercontent.com/58069246/169675869-3858f736-2d1b-4571-95fb-fb4276c5dfcd.jpg)
 
-"The First name for the Z-80 computer prototype...was not actually called a TEC-1, and was unlike to be any that are shown in the photos. It was casually refereed to as Orac...and it has not survived. It was built by John Hardy"
-
-Now to recreate a real ORAC based on Blakes 7 lore, batteries not included but source code is !
 
 ### Features in software
-
 Orac is an AI computer and its abilities are listed as: 
 1. Access other computers data and or remote control them 
 2. The signals are sent over WIFI
@@ -32,7 +30,7 @@ Orac is an AI computer and its abilities are listed as:
 - https://3dwarehouse.sketchup.com/model/bf10d7ec816519a7dd821470ed8efdff/Blakes-7-Orac-v17 [3dw]
 - 
 ### code 
-- orac.c 
+- orac.c ; full of errors obviously
 
 ## Ref
 - https://github.com/tec1group/PCB-Revision-History?fbclid=IwAR15Z6l_6arQXzrBXgts9KymNO-Bo5Xz2uVPq62fan6sFV_eS2ZrN1SXlLQ
