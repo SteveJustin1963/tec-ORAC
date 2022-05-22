@@ -1,12 +1,14 @@
-# tec-ORAC
+# tec-ORAC - a wtf tech project
 
+![images](https://user-images.githubusercontent.com/58069246/169675890-4557e685-832e-451e-829e-feefe77f64c5.jpg)
 ![download](https://user-images.githubusercontent.com/58069246/169675835-ab187108-cb51-4a44-87c6-ca178ea2161c.jpg)
 ![download](https://user-images.githubusercontent.com/58069246/169675838-ca833971-0bee-4d0f-902f-f78c6dce8527.jpg)
 ![download](https://user-images.githubusercontent.com/58069246/169675840-553afba7-b9c4-4b8d-86f9-3fe824de500c.jpg)
 ![images](https://user-images.githubusercontent.com/58069246/169675860-b0449ad9-9547-4bf6-9fc4-ef7455326439.jpg)
+![images](https://user-images.githubusercontent.com/58069246/169675869-3858f736-2d1b-4571-95fb-fb4276c5dfcd.jpg)
 
 
-- a wtf tech project
+
 - "The First name for the Z-80 computer prototype...was not actually called a TEC-1, and was unlike to be any that are shown in the photos. It was casually refered to as Orac...and it has not survived. It was built by John Hardy"
 - now to recreate a real ORAC based on Blakes 7 lore
 
