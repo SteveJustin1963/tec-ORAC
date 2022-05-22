@@ -1,7 +1,14 @@
 # tec-ORAC
+
+![download](https://user-images.githubusercontent.com/58069246/169675835-ab187108-cb51-4a44-87c6-ca178ea2161c.jpg)
+![download](https://user-images.githubusercontent.com/58069246/169675838-ca833971-0bee-4d0f-902f-f78c6dce8527.jpg)
+![download](https://user-images.githubusercontent.com/58069246/169675840-553afba7-b9c4-4b8d-86f9-3fe824de500c.jpg)
+![images](https://user-images.githubusercontent.com/58069246/169675860-b0449ad9-9547-4bf6-9fc4-ef7455326439.jpg)
+
+
 - a wtf tech project
 - "The First name for the Z-80 computer prototype...was not actually called a TEC-1, and was unlike to be any that are shown in the photos. It was casually refered to as Orac...and it has not survived. It was built by John Hardy"
-- now to recreate a real ORAC based on Blake;s 7 lore
+- now to recreate a real ORAC based on Blakes 7 lore
 
 ### Features in software
 
@@ -27,4 +34,5 @@ Orac is an AI computer and its abilities are listed as:
 - https://blakes7.fandom.com/wiki/Orac_(episode)
 - https://en-academic.com/dic.nsf/enwiki/1994114
 - https://www.glenalec.net/projects/orac/
+- https://www.hermit.org/b7/Episodes/scripts/Orac.html
 - 
