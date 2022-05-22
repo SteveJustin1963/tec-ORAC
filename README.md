@@ -30,7 +30,9 @@ Orac is an AI computer and its abilities are listed as:
 - https://3dwarehouse.sketchup.com/model/bf10d7ec816519a7dd821470ed8efdff/Blakes-7-Orac-v17 [3dw]
 - 
 ### code 
-- orac.c ; full of errors obviously
+- orac.c ; full of errors obviously, run SDCC for the z80 to get asm code
+- forth code coming
+- MINT code coming
 
 ## Ref
 - https://github.com/tec1group/PCB-Revision-History?fbclid=IwAR15Z6l_6arQXzrBXgts9KymNO-Bo5Xz2uVPq62fan6sFV_eS2ZrN1SXlLQ
