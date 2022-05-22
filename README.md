@@ -22,10 +22,15 @@ Orac is an AI computer and its abilities are listed as:
 6. Has protection software agains hacking, intrusion and viruses 
 
 ### Features in hardware
-- transparent box
-- sphere inside, light ball, hinting at optical tank circuit for neural activity see https://github.com/SteveJustin1963/tec-BRAIN
-- 
+[3dw]; "This is a 3d build of Orac, a computer character from the classic BBC television series Blake's 7 that aired from 1978 to 1981. Orac was a portable super-computer that appeared as a transparent box filled with tube-like electronic parts surrounding a sphere of flashing lights. The unit buzzed like an insect when turned on by a removable key on the top of the box. Orac's personality was much like its creator, a brilliant, but stubborn old man named Ensor, who at age 18, revolutionized the galactic computer industry with the invention of the tarial cell. Orac could remotely access and control any computer that used tarial cell technology, thus it was extremely valuable and gave Blake and his companions an edge over their enemy, the totalitarian Federation. #BBC #Blakes #computer #Orac #scifi #Seven #television".
 
+
+
+### build
+- transparent box, 3.5mm perspex or polycarbonate
+- sphere inside as a light ball, hinting at optical tank circuit for neural activity see https://github.com/SteveJustin1963/tec-BRAIN
+- https://3dwarehouse.sketchup.com/model/bf10d7ec816519a7dd821470ed8efdff/Blakes-7-Orac-v17 [3dw]
+- 
 ### code 
 - orac.c 
 
