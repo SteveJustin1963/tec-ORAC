@@ -17,10 +17,10 @@ Orac is an AI computer and its abilities are listed as:
 3. It has an AI personality that learns from its users and has a curiosity about the universe. Start with tensor-flow code to classify images
 4. Can simulate or decode different signals
 5. The ability to predict a probability outcomes give input parameters Take a 10 word question and predict a probability outcome between 0% to 100% 
-6. Has protection software agains hacking, intrusion and viruses 
+6. Has protection software against hacking, intrusion and viruses 
 
 ### Features in hardware
-[3dw]; "This is a 3d build of Orac, a computer character from the classic BBC television series Blake's 7 that aired from 1978 to 1981. Orac was a portable super-computer that appeared as a transparent box filled with tube-like electronic parts surrounding a sphere of flashing lights. The unit buzzed like an insect when turned on by a removable key on the top of the box. Orac's personality was much like its creator, a brilliant, but stubborn old man named Ensor, who at age 18, revolutionized the galactic computer industry with the invention of the tarial cell. Orac could remotely access and control any computer that used tarial cell technology, thus it was extremely valuable and gave Blake and his companions an edge over their enemy, the totalitarian Federation. #BBC #Blakes #computer #Orac #scifi #Seven #television".
+[3dw]; "This is a 3d build of Orac, a computer character from the classic BBC television series Blake's 7 that aired from 1978 to 1981. Orac was a portable supercomputer that appeared as a transparent box filled with tube-like electronic parts surrounding a sphere of flashing lights. The unit buzzed like an insect when turned on by a removable key on the top of the box. Orac's personality was much like its creator, a brilliant, but stubborn old man named Ensor, who at age 18, revolutionized the galactic computer industry with the invention of the tarial cell. Orac could remotely access and control any computer that used tarial cell technology, thus it was extremely valuable and gave Blake and his companions an edge over their enemy, the totalitarian Federation. #BBC #Blakes #computer #Orac #scifi #Seven #television".
 
 
 
@@ -42,3 +42,5 @@ Orac is an AI computer and its abilities are listed as:
 - https://www.glenalec.net/projects/orac/
 - https://www.hermit.org/b7/Episodes/scripts/Orac.html
 - 
+
+
