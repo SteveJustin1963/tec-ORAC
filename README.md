@@ -16,7 +16,7 @@ Orac is an AI computer and its abilities are listed as:
 2. The signals are sent over WIFI
 3. It has an AI personality that learns from its users and has a curiosity about the universe. Start with tensor-flow code to classify images
 4. Can simulate or decode different signals
-5. The ability to predict a probability outcomes give input parameters Take a 10 word question and predict a probability outcome between 0% to 100% 
+5. The ability to predict a probability outcomes give input parameters, ie Take a 10 word question and predict a probability outcome between 0% to 100% 
 6. Has protection software against hacking, intrusion and viruses 
 
 ### Features in hardware
