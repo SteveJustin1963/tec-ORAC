@@ -10,7 +10,7 @@
 ![images](https://user-images.githubusercontent.com/58069246/169675869-3858f736-2d1b-4571-95fb-fb4276c5dfcd.jpg)
 
 
-### Features in software
+## Features in software
 Orac is an AI computer and its abilities are listed as: 
 1. Access other computers data and or remote control them 
 2. The signals are sent over WIFI
@@ -19,8 +19,8 @@ Orac is an AI computer and its abilities are listed as:
 5. The ability to predict a probability outcomes give input parameters, ie Take a 10 word question and predict a probability outcome between 0% to 100% 
 6. Has protection software against hacking, intrusion and viruses 
 
-### Features in hardware
-[3dw]; "This is a 3d build of Orac, a computer character from the classic BBC television series Blake's 7 that aired from 1978 to 1981. Orac was a portable supercomputer that appeared as a transparent box filled with tube-like electronic parts surrounding a sphere of flashing lights. The unit buzzed like an insect when turned on by a removable key on the top of the box. Orac's personality was much like its creator, a brilliant, but stubborn old man named Ensor, who at age 18, revolutionized the galactic computer industry with the invention of the tarial cell. Orac could remotely access and control any computer that used tarial cell technology, thus it was extremely valuable and gave Blake and his companions an edge over their enemy, the totalitarian Federation. #BBC #Blakes #computer #Orac #scifi #Seven #television".
+## Features in hardware
+[3dw];This is a 3D representation of Orac, a computer character from the classic BBC television series Blake's 7. The series aired from 1978 to 1981. Orac was a portable supercomputer that resembled a transparent box filled with tube-like electronic parts surrounding a sphere of flashing lights. The device emitted a buzzing sound when turned on by a removable key located on the top of the box. Orac's personality was similar to that of its creator, Ensor, a brilliant but stubborn old man who revolutionized the galactic computer industry at the age of 18 with the invention of the tarial cell. Orac had the ability to remotely access and control any computer that utilized tarial cell technology, making it an extremely valuable resource for Blake and his companions in their fight against the totalitarian Federation. #BBC #Blake's7 #computer #Orac #sciencefiction #television
 
 
 
@@ -29,18 +29,7 @@ Orac is an AI computer and its abilities are listed as:
 - sphere inside as a light ball, hinting at optical tank circuit for neural activity see https://github.com/SteveJustin1963/tec-BRAIN
 - https://3dwarehouse.sketchup.com/model/bf10d7ec816519a7dd821470ed8efdff/Blakes-7-Orac-v17 [3dw]
 - 
-### code 
+##  code 
 - orac.c ; full of errors obviously, run SDCC for the z80 to get asm code
 - forth code coming
 - MINT code coming
-
-## Ref
-- https://github.com/tec1group/PCB-Revision-History?fbclid=IwAR15Z6l_6arQXzrBXgts9KymNO-Bo5Xz2uVPq62fan6sFV_eS2ZrN1SXlLQ
-- https://blakes7.fandom.com/wiki/Orac
-- https://blakes7.fandom.com/wiki/Orac_(episode)
-- https://en-academic.com/dic.nsf/enwiki/1994114
-- https://www.glenalec.net/projects/orac/
-- https://www.hermit.org/b7/Episodes/scripts/Orac.html
-- 
-
-
