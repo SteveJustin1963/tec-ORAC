@@ -15,6 +15,8 @@ To recreate a true fake ORAC inspired by the lore of Blake's 7, here socme code,
 ![image](https://github.com/user-attachments/assets/27ab8b6f-d9e5-4c21-8b59-3a25feb81946)
 ![image](https://github.com/user-attachments/assets/9e78d2b1-e239-4cf1-9ef0-3f54b5c409b5)
 ![image](https://github.com/user-attachments/assets/9ad99fc0-e118-4242-baba-09664605d520)
+![image](https://github.com/user-attachments/assets/1ddb3e39-c187-4c94-ac0f-199b1a7dce4e)
+
 
 
 
