@@ -1,6 +1,8 @@
-# hey.. a WTF tec-1 project .... "+ is that a question? +"
+# "Hey ORAC!".... "+ I'm not Siri, + is that a question? + "
 
-The original prototype for the Z-80 computer was not referred to as TEC-1, and it is unlikely that it resembled any of the machines shown in photos. It was informally known as Orac, and unfortunately, it no longer exists. It was constructed by John Hardy. To recreate a true ORAC inspired by the lore of Blake's 7, the source code is available, but batteries are not included.
+" The original prototype for the Z-80 computer was not referred to as TEC-1...[ and it is unlikely that it resembled any of the machines shown in the photos] however it was informally known as Orac, and unfortunately, it no longer exists. It was constructed by John Hardy"
+
+To recreate a true fake ORAC inspired by the lore of Blake's 7, here socme code, blue prints and some midnight hackery.
 
 ![images](https://user-images.githubusercontent.com/58069246/169675890-4557e685-832e-451e-829e-feefe77f64c5.jpg)
 ![download](https://user-images.githubusercontent.com/58069246/169675835-ab187108-cb51-4a44-87c6-ca178ea2161c.jpg)
